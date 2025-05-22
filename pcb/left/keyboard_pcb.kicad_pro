@@ -517,7 +517,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../fabrication/left/",
       "pos_files": "",
       "specctra_dsn": "../../../keyboard_pcb.dsn",
       "step": "",
